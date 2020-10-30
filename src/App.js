@@ -17,6 +17,9 @@ function App() {
         >
           Please check out my LinkedIn profile
         </a>
+        <p>
+          more coming soon
+        </p>
       </header>
     </div>
   );
